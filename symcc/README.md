@@ -80,11 +80,11 @@ Let's prepare the required setup:
 1. Set the input file location
 I have a input file as recommended by symcc author [here](http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html).
     ```
-    xport SYMCC_INPUT_FILE=/tmp/file1.jp2
+    export SYMCC_INPUT_FILE=/tmp/file1.jp2
     ```
 1. Create symcc default output directory
     ```
-    kdir /tmp/output
+    mkdir /tmp/output
     ```
 1. Run the program for symbolic execution
     ```
