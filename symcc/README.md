@@ -4,7 +4,7 @@ SymCC is a compiler wrapper which embeds symbolic execution into the program dur
 
 
 # Symcc docker image preparation
-Local installation failed many times, and I decided to use the docker. I build the docker image in Ubuntu 18.04 with any error, using the following steps:
+Local installation failed many times, and I decided to use the docker. I build the docker image in Ubuntu 18.04 without any error, using the following steps:
 
 Clone the symcc as mentioned [here](https://github.com/eurecom-s3/symcc):
 ```
