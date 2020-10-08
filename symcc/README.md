@@ -77,7 +77,7 @@ Let's prepare the required setup:
     ```
     $ unset   export SYMCC_NO_SYMBOLIC_INPUT
     ```
-1. Set the input file location
+1. Set the input file location **(this setp is required while using fuzzing helper with symcc)**
 I have a input file as recommended by symcc author [here](http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html).
     ```
     export SYMCC_INPUT_FILE=/tmp/file1.jp2
@@ -87,6 +87,12 @@ I have a input file as recommended by symcc author [here](http://www.s3.eurecom.
     mkdir /tmp/output
     ```
 1. Run the program for symbolic execution
+
+    For symbolic execution only:
+    ```
+    sudo /tmp/openjpeg/build/bin/opj_decompress -i /tmp/file1.jp2 -o /tmp/output/image.pgm
+    ```
+    For hybrid fuzzing with fuzzing helper of symcc :
     ```
     sudo /tmp/openjpeg/build/bin/opj_decompress -i @@ -o /tmp/output/image.pgm
     ```
