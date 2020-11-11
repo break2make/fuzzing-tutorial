@@ -13,3 +13,12 @@ To be explored:
 
 - SAVIOR Fuzzer [source](https://github.com/evanmak/savior-source)
 - ParmeSan: Sanitizer-guided Greybox Fuzzing [source](https://github.com/vusec/parmesan)
+
+
+## AFL
+
+### Resources
+- https://afl-1.readthedocs.io/en/latest/user_guide.html
+- https://x9security.com/fuzzing-explained-with-afl/
+- https://blog.f-secure.com/super-awesome-fuzzing-part-one/
+- https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/
