@@ -22,3 +22,7 @@ To be explored:
 - https://x9security.com/fuzzing-explained-with-afl/
 - https://blog.f-secure.com/super-awesome-fuzzing-part-one/
 - https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/
+
+
+## Interesting Blog Post
+- https://salvatoresecurity.com/fun-with-fuzzers-or-how-i-discovered-three-vulnerabilities-part-1-of-3/
