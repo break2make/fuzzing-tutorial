@@ -14,6 +14,19 @@ To be explored:
 - SAVIOR Fuzzer [source](https://github.com/evanmak/savior-source)
 - ParmeSan: Sanitizer-guided Greybox Fuzzing [source](https://github.com/vusec/parmesan)
 
+## Libfuzzer
+- [Improving your fuzzer](https://fuchsia.dev/fuchsia-src/development/testing/fuzzing/improve-a-fuzzer)
+- https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md
+- https://forallsecure.com/blog/learning-about-structure-aware-fuzzing-and-finding-json-bugs-to-boot
+- https://llvm.org/docs/LibFuzzer.html
+- [Fuzzing floating point code](https://rigtorp.se/fuzzing-floating-point-code/)
+- https://llvm.org/devmtg/2017-10/slides/Serebryany-Structure-aware%20fuzzing%20for%20Clang%20and%20LLVM%20with%20libprotobuf-mutator.pdf
+- https://files.meetup.com/17933012/libFuzzer%20-%20May%202016.pdf
+- https://source.android.com/devices/tech/debug/libfuzzer
+- https://llvm.org/docs/LibFuzzer.html#:~:text=LibFuzzer%20is%20linked%20with%20the,to%20maximize%20the%20code%20coverage.
+- https://www.wolfssl.com/wolfssl-and-libfuzzer/
+- https://meetingcpp.com/mcpp/slides/2018/Structured%20fuzzing.pdf
+
 
 ## AFL
 
