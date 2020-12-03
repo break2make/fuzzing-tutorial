@@ -14,6 +14,11 @@ To be explored:
 - SAVIOR Fuzzer [source](https://github.com/evanmak/savior-source)
 - ParmeSan: Sanitizer-guided Greybox Fuzzing [source](https://github.com/vusec/parmesan)
 
+Other resources:
+
+- https://githubz.com/topics/afl
+
+
 ## Libfuzzer
 - [Improving your fuzzer](https://fuchsia.dev/fuchsia-src/development/testing/fuzzing/improve-a-fuzzer)
 - https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md
