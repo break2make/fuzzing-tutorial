@@ -1,5 +1,12 @@
 
 
+## Presentations
+- https://www.embedded-testing.de/files/embeddedtesting/site/vortraege2019/tag2/Di4.3-Hoer-und-Hartlage.pdf
+- [Top N challenges of "deep" fuzzing](https://tinyurl.com/y3znyqls) 
+- https://files.meetup.com/17933012/libFuzzer%20-%20May%202016.pdf
+- 
+ 
+## Papers
 Recent Papers Related To Fuzzing [link](https://wcventure.github.io/FuzzingPaper/)
 
 - Driller: Augmenting Fuzzing Through Selective Symbolic Execution [paper](https://sites.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf)
