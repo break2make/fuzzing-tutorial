@@ -44,3 +44,20 @@ Other resources:
 
 ## Interesting Blog Post
 - https://salvatoresecurity.com/fun-with-fuzzers-or-how-i-discovered-three-vulnerabilities-part-1-of-3/
+
+## Protobuf Mutator
+For structure data mutation in structure aware fuzzing. It can be used with LibFuzzer and AFL++.
+
+### Resources
+- https://github.com/bruce30262/libprotobuf-mutator_fuzzing_learning/blob/master/2_libprotobuf_libfuzzer/lpm_libfuzz.cc
+- https://awesomeopensource.com/project/bruce30262/libprotobuf-mutator_fuzzing_learning
+- https://github.com/thebabush/afl-libprotobuf-mutator
+- https://github.com/google/libprotobuf-mutator
+- https://github.com/leimao/Protocol_Buffer_Examples/blob/master/protos/addressbook.proto
+- https://github.com/google/libprotobuf-mutator/blob/master/src/mutator_test.cc
+- https://doss-gitlab.eidos.ic.i.u-tokyo.ac.jp/sneeze/chromium/blob/master/testing/libfuzzer/libprotobuf-mutator.md
+- https://securityboulevard.com/2020/08/learning-about-structure-aware-fuzzing-and-finding-json-bugs-to-boot/
+- https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md
+- https://googleprojectzero.blogspot.com/2019/12/sockpuppet-walkthrough-of-kernel.html
+- https://bshastry.github.io/2019/01/18/Deconstructing-LPM.html
+- https://bshastry.github.io/2019/12/27/Custom-Proto-Mutation.html
