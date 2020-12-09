@@ -4,7 +4,7 @@
 - https://www.embedded-testing.de/files/embeddedtesting/site/vortraege2019/tag2/Di4.3-Hoer-und-Hartlage.pdf
 - [Top N challenges of "deep" fuzzing](https://tinyurl.com/y3znyqls) 
 - https://files.meetup.com/17933012/libFuzzer%20-%20May%202016.pdf
-- 
+- https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf
  
 ## Papers
 Recent Papers Related To Fuzzing [link](https://wcventure.github.io/FuzzingPaper/)
