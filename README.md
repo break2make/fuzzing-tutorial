@@ -47,6 +47,9 @@ Other resources:
 - https://x9security.com/fuzzing-explained-with-afl/
 - https://blog.f-secure.com/super-awesome-fuzzing-part-one/
 - https://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/
+- https://i.blackhat.com/us-18/Wed-August-8/us-18-Li-AFLs-Blindspot-And-How-To-Resist-AFL-Fuzzing-For-Arbitrary-ELF-Binaries.pdf
+- [Fuzzing the Solidity Compiler](https://f.hubspotusercontent20.net/hubfs/7466322/FuzzCon%20Europe%202020%20Slides/Slides%20-%20Bhargava%20Shastry%20-%20Fuzzing%20Solidity.pdf)
+
 
 
 ## Interesting Blog Post
